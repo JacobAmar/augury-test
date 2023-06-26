@@ -1,0 +1,7 @@
+image:
+  name: ttl.sh/augury-23890
+  tag: 1h
+port: 80
+replicas: 1
+environment_vars:
+  MY_ENVIRONMENT_VARIABLE: "augury"
